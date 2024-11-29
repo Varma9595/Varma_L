@@ -1,0 +1,15 @@
+body {
+	background-color : lightblue;
+	background-image:url(image.jpg);
+	background-position-x:50%;
+	background-position-y:50%;
+	
+	}
+.logpage {
+	
+	background: white;
+	margin: auto;
+	max-width: 300px;
+	padding: 25px;
+	justify-content: center;
+	}
